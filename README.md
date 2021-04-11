@@ -1,1 +1,1 @@
-# react-magneto
+# react-boilerplate-builder
