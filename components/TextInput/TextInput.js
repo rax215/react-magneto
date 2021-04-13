@@ -1,7 +1,7 @@
-const getTextField = (attributes) => {    
+const getTextField = (attributes) => { 
     return (
     `
-    <TextField id="${attributes.textInputName}" label="${attributes.textInputLabel}" className="${attributes.className}" variant="outline" />
+            <TextField id="${attributes.textInputName}" label="${attributes.textInputLabel}" className="${attributes.className}" variant="outline" />
     `    
     )
 }
